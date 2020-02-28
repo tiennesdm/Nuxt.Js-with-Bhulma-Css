@@ -1,7 +1,7 @@
 <template>
   <div>
     <section class="section">
-      <div class="container">
+      <div class>
         <Tiles />
       </div>
     </section>
